@@ -1,0 +1,14 @@
+# HealthCheck
+GET http://localhost:3000/health
+
+
+###
+GET http://localhost:3000/installation/auth
+
+
+###
+GET http://localhost:3000/installation/load
+
+
+###
+GET http://localhost:3000/installation/uninstall
